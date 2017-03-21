@@ -1,5 +1,6 @@
 package com.janita.quartz.one.simpletrigger;
 
+import com.janita.quartz.one.job.SimpleJob;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
 import org.quartz.SchedulerFactory;

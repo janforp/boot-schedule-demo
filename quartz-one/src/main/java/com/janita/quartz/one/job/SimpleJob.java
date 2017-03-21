@@ -1,4 +1,4 @@
-package com.janita.quartz.one.simpletrigger;
+package com.janita.quartz.one.job;
 
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
