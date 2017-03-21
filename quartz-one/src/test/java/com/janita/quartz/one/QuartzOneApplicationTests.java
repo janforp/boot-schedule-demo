@@ -1,16 +1,14 @@
-package com.janita.schedule;
+package com.janita.quartz.one;
 
-import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-@RunWith(SpringRunner.class)
+/**
+ * Created by Janita on 2017-03-21 15:23
+ */
 @SpringBootTest
-public class ScheduleDemoApplicationTests {
-
-	@Test
-	public void contextLoads() {
-	}
+@RunWith(SpringRunner.class)
+public class QuartzOneApplicationTests {
 
 }

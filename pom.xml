@@ -6,7 +6,12 @@
 	<groupId>com.janita.schedule</groupId>
 	<artifactId>boot-schedule-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+
+    <modules>
+        <module>quartz-one</module>
+		<module>spring-schedule</module>
+	</modules>
+    <packaging>pom</packaging>
 
 	<name>schedule-demo</name>
 	<description>Demo project for Spring Boot</description>
